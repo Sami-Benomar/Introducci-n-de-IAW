@@ -36,7 +36,11 @@ Enlace: [IES Celia Viñas][1]
 
 <!- Este texto es un comentario-->
 
+
+### Imagen enlace externo
 ![](https://images.halloweencostumes.com/products/41224/1-1/pirate-flag-captain-plus-size-mens-costume.jpg)
+
+### Imagen local
 ![](images/OIP.jpg)
 
 [Nuevo MarkDown][2]
